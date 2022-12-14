@@ -1,0 +1,4 @@
+This file is where url path is created by default next create a url of filename to execute that file, for index.js is served 
+as the root path so if there is index.js is used as root path /.... but if you define other js file inside this pages folder then
+it will be names from domainname/file_name... So if you want nested path you should have a folder inside this to nest url like
+if i want domainname/campaign/new     I needed to have campaign folder inside pages folder then campaign folder should contain new.js

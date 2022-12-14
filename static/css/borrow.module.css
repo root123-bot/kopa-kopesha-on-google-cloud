@@ -1,0 +1,239 @@
+.secStyles {
+    width: 60%;
+    margin: auto;
+    margin-top: 3%;
+    margin-left: 25%;
+}
+
+.title {
+    font-size: 200%;
+    font-weight: bolder;
+
+}
+
+.imYourFather {
+    margin-top: 3%;
+    width: 74.6%;
+}
+
+.ca {
+    font-weight: bolder;
+    display: inline;
+}
+
+
+.no {
+    color: #7c7777;
+    margin-left: 1%;
+}
+
+.previewWrapper {
+    background-color: #dbd9d9;
+    width: 100%;
+    height: 300px;  /* this is default width used but when user starts to upload or load nft collateral assets we make it "auto" in Javascript codes */
+    border-radius: 10px 10px;
+    margin-top: 2%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.previewWrapper1 {
+    background-color: #dbd9d9;
+    width: 100%;
+    height: 300px;  /* this is default width used but when user starts to upload or load nft collateral assets we make it "auto" in Javascript codes */
+    border-radius: 10px 10px;
+    margin-top: 2%;
+    display: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.im {
+    width: 204px;
+    margin: auto;
+    margin-top: 20px; 
+    margin-bottom: 4%;
+    margin-left: 5.4%;    
+    display: inline;
+    position: relative;
+}
+
+.im:hover {
+    cursor: pointer
+}
+
+.im:hover::after {
+    content: url(../images/delete-bin.png);
+    width: 200px;
+    height: 200px;
+    background: rgb(255, 255, 255, .4);
+    position: absolute;
+    right: 0%;
+    transform: translateY(-85px);
+}
+
+.pic {
+    margin-top: 3%;
+    margin-bottom: 2%;
+    border: #626262 2px solid;
+}
+
+.pic1 {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border: #765f5f 2px solid
+}
+
+.msg {
+    text-align: center;
+    font-weight: bolder;
+    color: #a8a8a8;
+    font-size: 130%;
+}
+
+.cN {
+    margin-top: 5%;
+}
+
+.addTit {
+    font-size: 140%;
+    font-weight: bolder;
+}
+
+
+
+.addAssetsPopup {
+    position: absolute;
+    width: 30%;
+    top: 50%;
+    left: 50%;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    transform: translate(-70%, -70%) scale(1.25);  /* Nikiweka % asilimia hapa kwenye first input 40% inakataa labda niweke namba pekeake button kule haziwi link sijui kwa nini.. Ila nikitoa inakua safi.. But nilivyoweka 80% sijui kwanini imekubali... cjajua */
+    background: #fff;
+    box-shadow: 2px 2px 5px #696767;
+    border-radius: 10px;
+    display: none;
+    transition: display 200ms ease-in-out 0ms,
+                transform 20ms ease-in-out 0ms;
+}
+
+.closeBtn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 15px;
+    height: 15px;
+    background: #888;
+    color: #eee;
+    text-align: center;
+    line-height: 15px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.addTit {
+    text-align: center;
+}
+
+.jumbe {
+    width: 63.74%;
+    display: none;
+}
+
+.loadContainer {
+    width: 50%;
+    background-color: #eafffd;
+    height: auto;
+    position: absolute;
+    top: 15%;
+    box-shadow: 2px 2px 5px #696767;
+    border-radius: 10px;
+    display: none;
+}
+
+.closeButton {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 15px;
+    height: 15px;
+    background: #888;
+    color: #eee;
+    text-align: center;
+    line-height: 15px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.loadContainer1 { 
+    width: 50%;
+    background-color: #eafffd;
+    height: auto;
+    position: absolute;
+    top: 15%;
+    box-shadow: 2px 2px 5px #696767;
+    border-radius: 10px;
+    display: none;
+}
+
+.closeButton1    {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 15px;
+    height: 15px;
+    background: #888;
+    color: #eee;
+    text-align: center;
+    line-height: 15px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.loadTit {
+    text-align: center;
+    padding-top: 2%;
+}
+
+.imgContainer {
+    margin: 4%;
+}
+
+.ima {
+    margin-left: 3%;
+    display: inline;
+}
+
+.ima:hover {
+    cursor: pointer;
+}
+
+/*
+.ima:hover::after {
+    content:'';
+    width: 200px;
+    height: 200px;
+    background: rgba(172, 55, 55, 0.4);
+    position: absolute;
+    right: 0%;
+    transform: translateX(-40px);
+}
+
+
+*/
+.nonce {
+    font-weight: bold;
+    color: #696767;
+    margin: 4%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.finishBtn {
+    margin-top: 2%;
+    width: 74.6%;
+}

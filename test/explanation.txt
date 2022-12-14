@@ -1,0 +1,8 @@
+Unaweza ukawa unajiuliza ni kwanini tofauti na kwenye project zilizopita kwa nini hii test folder tumeliweka outside the Etherium
+directory... what is the reason.. THE REASON OF PUTTING THIS FOLDER OUTSIDE IS BECAUSE WE'RE GOING TO WRITE HERE MANY TESTS ONE 
+OF THEM IS FOR Ethereum directory  AND OTHER ARE FOR OTHER PROJECT FOUND IN KICKSTART FOLDER LIKE WEB APP SIDE OF OUR APPLICATION..
+
+ME PERSONALLY, I THINK THAT ALL OF THE DIFFERENT TESTS THAT WE HAVE FOR A SINGLE PROJECT SHOULD ALL BE PUT IN THE SAME LOCATION RATHER
+THAN SCATTERING THEM ALL OUT THROUGHOUT OUR PROJECT... ko huko nyuma tulikuwa tunaandika /test directory kwenye same level/location
+as that of Ethereum.. so in this since inside KICKSTART FOLDER we have many projects or purposes we have to write all their test inside
+kickstart, this is why we have test folder outside etherium since we are going to write all the tests of all applications....

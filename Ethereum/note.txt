@@ -1,0 +1,8 @@
+
+Attempting to deploy from account 0xACc647D5ae13cACFbb55E79b53036914bf842bf3
+Contract deployed to 0x257f6cC5d059D525Aa08fb43CC221bd363FCC72d
+
+
+// latest one using Goerli Testnet
+Attempting to deploy from account 0xACc647D5ae13cACFbb55E79b53036914bf842bf3
+Contract deployed to 0xcDbf43dC10E5F8963689B20026Dc9E0B94567e13

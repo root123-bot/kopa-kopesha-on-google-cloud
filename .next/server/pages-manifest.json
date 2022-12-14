@@ -1,0 +1,13 @@
+{
+  "/borrow": "pages/borrow.js",
+  "/clearDeployedAddresses": "pages/clearDeployedAddresses.html",
+  "/": "pages/index.js",
+  "/pro": "pages/pro.js",
+  "/profile": "pages/profile.html",
+  "/show": "pages/show.html",
+  "/testingFrontendFailedToPayback": "pages/testingFrontendFailedToPayback.html",
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}

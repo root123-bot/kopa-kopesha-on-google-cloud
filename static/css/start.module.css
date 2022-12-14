@@ -1,0 +1,77 @@
+.st {
+    width: 61%;
+    margin: auto;
+    padding-left: 5%;
+    margin-top: 3%;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.spt {
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 3%;
+}
+
+.cardDiv {
+    display: inline;
+    width: 20%;
+}
+
+.oh {
+    white-space: nowrap;
+
+}
+.hid {
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+.ti {
+    font-size: 200%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    text-align: center;
+    color: rgb(131, 131, 131);
+}
+
+.val {
+    margin-left: 1px;
+    margin-right: 8px;
+    color: rgb(140, 140, 140);   
+}
+
+.prv {
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+    position: absolute;
+    top: 15%;
+    left: 22%;
+    height: auto;
+    background-color: rgb(239, 239, 239);
+    margin-bottom: 2%;
+    display: none;
+}
+
+.ig {
+    border: 1px solid rgb(59, 59, 59);
+    margin-left: 10%;
+    margin-right: auto;
+    margin-top: 2%;
+
+}
+
+.closeBtn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 15px;
+    height: 15px;
+    background: #888;
+    color: #eee;
+    text-align: center;
+    line-height: 15px;
+    border-radius: 15px;
+    cursor: pointer;
+}
